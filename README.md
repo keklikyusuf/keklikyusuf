@@ -1,4 +1,4 @@
-![logo2](https://user-images.githubusercontent.com/33743193/122555900-2bb71a00-d03b-11eb-8b01-92e194bd4d86.png)
+![logo2](https://user-images.githubusercontent.com/33743193/157867659-3c0e2b63-8abc-4091-8554-75ede654cf1e.png)
 
 ### Hey, I’m Yusuf Keklik👋
 
