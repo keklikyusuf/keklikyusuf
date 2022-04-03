@@ -2,7 +2,6 @@
 ![Pycoholic Logo Balck ](https://user-images.githubusercontent.com/33743193/161427944-91e145c5-eaf7-4fe8-8b16-751b3f2f6c71.png)
 ![Pycoholic Logo Trans](https://user-images.githubusercontent.com/33743193/161428032-9bcaddeb-2ea6-45e9-83ee-f79bfdb76aae.png)
 ![Pycoholic Logo Dark Blue](https://user-images.githubusercontent.com/33743193/161428170-6ec1d3fb-28f4-438f-92c8-bb3be4485880.png)
-![Pycoholic Logo Dark Green](https://user-images.githubusercontent.com/33743193/161428234-f93decd1-f135-4671-ae55-d96104feab69.png)
 
 ### Hey, I’m Yusuf Keklik👋
 
