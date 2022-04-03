@@ -1,5 +1,4 @@
 ![logo2](https://user-images.githubusercontent.com/33743193/157867659-3c0e2b63-8abc-4091-8554-75ede654cf1e.png)
-![Pycoholic Logo](https://user-images.githubusercontent.com/33743193/161424671-16a676af-3b96-4b46-950c-16b3c82f831c.png)
 
 ### Hey, I’m Yusuf Keklik👋
 
