@@ -9,10 +9,10 @@ Besides, engineering level of professional life, I am trying to learn as much as
 
 Currently improving my knowledge with Python not only as hobby level but also professional level.
 
-I have been working with Python around 2 years and trying to everything I can with dedicated projects.
+I have been working with Python around 4 years and trying to everything I can with dedicated projects.
 
 
-### My 2022 Goal ✨✨
+### My 2023 Goal ✨✨
 
 While improving myself, having chance to get closer to open source community and contribute to be part of it.
 
