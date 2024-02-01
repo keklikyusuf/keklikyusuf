@@ -12,7 +12,7 @@ Currently improving my knowledge with Python not only as hobby level but also pr
 I have been working with Python around 4 years and trying to everything I can with dedicated projects.
 
 
-### My 2023 Goal ✨✨
+### My 2024 Goal ✨✨
 
 While improving myself, having chance to get closer to open source community and contribute to be part of it.
 
